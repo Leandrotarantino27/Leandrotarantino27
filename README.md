@@ -1,0 +1,7 @@
+- 👋 Hello there! I’m Leandro, born in sicily and raised around the world since 1993
+- 👀 I've so many hobbies,you mean my favourite?...mmmm... probably videogames, yeah! i know.. pretty common 
+- 🌱 I’m currently learning how to be a data analyst and work with datas, i do like all process of BI and the way they're gooing 
+- 💞️ I’m looking to collaborate with a company such as:Konami, Bandai, Ubisoft etc..but atm i wanna fly down.. i've a cat to feed!
+- 📫 How to reach me? easy answer, here my -email. (leandro.tarantino27@gmail.com) i'm working on a linkedin page just stay tuned
+- ⚡ Fun fact: since i start to use mySQL and python my daily thoughts are ruled by:
+-  primary key, if, when,while.. and other logical relation between the thing i should do and how im gonna do, is working? yes, my girlfriend's no longer understand me? well.. maybe.. 
